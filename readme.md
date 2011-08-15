@@ -6,11 +6,11 @@ image placeholder i php, en enda fil
         filformat (defaultad)
         fg-färg (=fff)
         bg-färg (=gray)
-        text (=null)
-        border (=0)
-        cache (=1)
         ====
+        centrerad text
         argument via get eller argv
         så få dependencies som möjligt, gd eller imagick
         visar storleken i bilden
         liten storlek > snygg > allt annat
+        http://www.php.net/manual/en/image.examples-png.php
+        http://php.net/manual/en/function.imagecreate.php
