@@ -1,5 +1,7 @@
 #picture-this
-Generates image placeholders. Call it through an URL to display it:
+Generates image placeholders. Call it through an URL to display it.
+
+*Words of caution:* do not use on a production site, instead, use it on a local server.
 
 ##example
 
