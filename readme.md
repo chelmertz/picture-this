@@ -8,7 +8,7 @@ Generates image placeholders. Call it through an URL to display it:
 ```
 would display
 
-![Example 1](path here...)
+![Example 1](https://github.com/chelmertz/picture-this/raw/master/picture-this-example-1.png)
 
 ##api
 Append each option through GET
