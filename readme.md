@@ -4,8 +4,11 @@ Generates image placeholders. Call it through an URL to display it:
 ##example
 
 ```php
-<img src="picture-this.php?w=100&h=200&t=hello+there&fg=fa0&bg=eff" alt="placeholder" />
+<img src="picture-this.php?w=500&h=200&bg=ebd&fg=f00" alt="placeholder" />
 ```
+would display
+
+![Example 1](path here...)
 
 ##api
 Append each option through GET
